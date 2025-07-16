@@ -1,0 +1,34 @@
+{
+  "teams": [
+    {
+      "name": "Group 1",
+      "score": 1150,
+      "color": "bg-blue-500",
+      "glowColor": "shadow-blue-500/50"
+    },
+    {
+      "name": "Beta Dynamics",
+      "score": 430,
+      "color": "bg-red-500",
+      "glowColor": "shadow-red-500/50"
+    },
+    {
+      "name": "Gamma Force",
+      "score": 720,
+      "color": "bg-emerald-500",
+      "glowColor": "shadow-emerald-500/50"
+    },
+    {
+      "name": "Delta Prime",
+      "score": 590,
+      "color": "bg-purple-500",
+      "glowColor": "shadow-purple-500/50"
+    },
+    {
+      "name": "Epsilon Elite",
+      "score": 680,
+      "color": "bg-orange-500",
+      "glowColor": "shadow-orange-500/50"
+    }
+  ]
+}
